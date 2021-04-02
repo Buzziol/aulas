@@ -1,0 +1,9 @@
+.table, td, th {
+    color: black;
+    border: solid 1px #000000;
+}
+
+.table  {
+    width: 100%;
+    border-collapse: collapse;
+}
